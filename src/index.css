@@ -12,3 +12,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+#top-20{
+
+  margin-left: 100px;
+  display: flex;
+}
+
+#top-20 img{
+  height:50px;
+  margin-left: 15px;
+  margin-top: 6px;
+}
+
+
+#top-20-songs{
+  margin-left: 100px;
+}
+
+#title, ol{
+  font-weight: 900;
+  color: #635b5e;
+  text-decoration: none;
+}
+
+#artist{
+  font-style: italic;
+  font-weight: 400;
+  font-size: 14px;
+  margin-top: 0;
+}
+
+#image{
+  margin-bottom: 50px;
+  margin-right: 50px;
+}
+
+#container{
+  display: flex;
+}
